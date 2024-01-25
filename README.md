@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&random=false&width=435&height=35&lines=Ol%C3%A1%2C+eu+sou+a+Cristiane+Almeida!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 <div>
    <a href="https://github.com/criscardosoalmeida">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=criscardosoalmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
